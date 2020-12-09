@@ -6,6 +6,6 @@
 
 Learning from Full-stack React Projects - Second Edition. By Shama Hoque
 
-###### Status
+###### Actual Status of the app 08/12/2020
 
 Back-end ready!
